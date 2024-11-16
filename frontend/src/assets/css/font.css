@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'YouSheBiaoTiHei';
+  src: url('../fonts/YouSheBiaoTiHei.eot');
+  src: local('YouSheBiaoTiHei'), local('YouSheBiaoTiHei'), url('../fonts/YouSheBiaoTiHei.eot?#iefix') format('embedded-opentype'), url('../fonts/YouSheBiaoTiHei.woff') format('woff'), url('../fonts/YouSheBiaoTiHei.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PangMenZhengDao';
+  src: url('../fonts/PangMenZhengDao.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
